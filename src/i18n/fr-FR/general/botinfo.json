@@ -1,0 +1,13 @@
+{
+  "DESCRIPTION": "Donne les informations sur le bot",
+  "USAGE": "$botinfo",
+  "EXAMPLE": "$botinfo",
+  "INFO": "Informations sur {{client}}",
+  "NAME": "Nom:",
+  "DISCRIMINATOR": "Discriminant",
+  "DEVELOPPER": "Owners:",
+  "OS": "Systeme d'exploitation:",
+  "PROCESSOR": "Processeur:",
+  "RAM": "Ressources utilisées:",
+  "INVITS": "Invitations"
+}

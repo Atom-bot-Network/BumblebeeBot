@@ -1,0 +1,7 @@
+{
+  "DESCRIPTION": "Définissez la langue du bot parmis celles proposées",
+  "USAGE": "$setlang [Nouvelle langue (fr, en ect...)]",
+  "EXAMPLE": "$setlang en",
+  "SUCCESS": "Langue du bot mise a jour: `{{old}} -> {{new}}`",
+  "VALID_LANG":  "Veuillez Choisir une langue parmis les suivantes: \n{{lang}}"
+}

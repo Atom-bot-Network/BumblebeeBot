@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Changez le préfix du bot sur votre serveur",
+  "USAGE": "$prefix [Nouveau Prefixe]",
+  "EXAMPLE": "$prefix b/",
+  "VALID_PREFIX": "<:no:697047212429017098> | Veuillez entrer un préfixe valide !",
+  "CHARACTERS": "<:no:697047212429017098> | Le préfixe ne doit pas excéder les 5 caractères !",
+  "SUCCESS":  "<:yes:697047113049047110> | Le préfixe a bien été modifié `{{old}} => {{prefix}}`!\n Tapez `{{prefix}}help` pour voir la liste des commandes !"
+}

@@ -1,0 +1,5 @@
+{
+  "DESCRIPTION": "Définissez le message de départ des membres",
+  "USAGE": "$setleave",
+  "EXAMPLE": "$setleave"
+}

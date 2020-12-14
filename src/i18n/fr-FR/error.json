@@ -1,0 +1,17 @@
+{
+  "ERROR_SYNTAX": "Veuillez respecter le plan de la commande",
+  "INHIBITOR_MISSING_BOT_PERMS": "J'ai besoin des permissions suivantes pour effectuer cette commande : {{perm}}",
+  "INHIBITOR_PERMISSIONS": "Vous n'avez pas les permissions nécessaires pour effectuer cette commande (`{{perm}}`)",
+  "COMMAND_DISABLED": "Cette commande est actuellement désactivée !",
+  "OWNER_ONLY": "Seul ${owner} peut effectuer ces commandes !",
+  "MENTION_CHANNEL": "Veuillez mentionner un salon valide !",
+  "MENTION_ROLE": "Veuillez mentionner un rôle valide !",
+  "CHANNEL_IGNORED": "Les commandes sont interdites dans ${channel} !",
+  "BAD_PARAMETERS":  "Veuillez vérifier les paramètres de la commande. Regardez les exemples en tapant `{{prefix}}help {{cmd}}` !",
+  "ROLE_NOT_FOUND":  "Aucun rôle trouvé !",
+  "YES_OR_NO": "Vous devez répondre par `oui` ou par `non` !",
+  "INVALID_TIME": "Vous devez entrer un temps valide ! Unités valides : `s`, `m`, `h`, `d`, `w`, `y`",
+  "MENTION_EVERYONE": "Vous n'avez pas l'autorisation de mentionner everyone ou here dans les commandes.",
+  "CARACT": "Votre message est trop long, merci de le racourcir",
+  "COMMAND_PREMIUM": "Vous devez mettre votre serveur a niveau pour utiliser cette commande, faires `{{prefix}}support` pour rejoindre le serveur support et en faire la demande"
+}

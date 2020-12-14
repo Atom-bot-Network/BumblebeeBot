@@ -1,0 +1,19 @@
+{
+  "USAGE": "$help\n$help [Allias]\n$help [CommandName]",
+  "EXAMPLE": "$help\\n$help bi\\n$help botinfo",
+  "DESCRIPTION": "Affiche l'aide des commandes ou l'aide d'une commande en particulier",
+  "COMMAND_NOT_FOUND":  "<:no:697047212429017098> | Commande introuvable !",
+  "DISABLED": "Cette commande est actuellement désactivée",
+  "OWNER_ONLY": "Seul {{owner}} peut effectuer cette commande !",
+  "REMINDER":  "Pour avoir de l'aide sur une commande tapez `{{prefix}}help <commande>` !",
+  "HEADING_2": "Liste des commandes - ({{total}})",
+  "HEADING": "Aide :",
+  "USAGES": "Utilisation :",
+  "EXAMPLES": "Exemples :",
+  "GROUP": "Groupe :",
+  "DESC": "Description :",
+  "PERMISSIONS": "Permissions :",
+  "NO_ALIASES":"Pas d'allias",
+  "OWNER":"Vous n'avez pas accés aux commandes développeur",
+  "ALLIAS": "Allias"
+}

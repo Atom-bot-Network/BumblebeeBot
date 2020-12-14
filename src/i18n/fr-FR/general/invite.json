@@ -1,0 +1,5 @@
+{
+  "DESCRIPTION": "Donne le nombre d'invitations de la personne",
+  "EXAMPLE": "$invite @member\n$invite 555429540613062656\n$invite",
+  "USAGE": "$invite [mention/id]"
+}

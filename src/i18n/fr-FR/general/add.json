@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION":"Donne le lien d'invitation du bot ainsi que celui du serveur support",
+  "USAGE": "$add",
+  "EXAMPLE": "$add",
+  "INVIT":"Invitations" ,
+  "1":"Invitez le bot sur votre propre serveur !",
+  "GEN":"Génération...",
+  "SUPP":"Serveur Support",
+  "CLICK":"[Cliquez-ici]"
+}

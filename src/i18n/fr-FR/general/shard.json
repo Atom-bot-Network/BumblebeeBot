@@ -1,0 +1,7 @@
+{
+  "DESCRIPTION": "Information sur le shard",
+  "USAGE": "$shard",
+  "EXAMPLE": "$shard",
+  "SHARD": "Shard",
+  "MESSAGE": "{{ram}} mb ram\n `{{server}} serveurs` dans le cache\n`{{member}}` Membres dans le cache\nUptime: {{uptime}}\nPing du WebSocket: {{ping}}"
+}

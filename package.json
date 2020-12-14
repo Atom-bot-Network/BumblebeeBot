@@ -1,0 +1,40 @@
+{
+  "name": "bumblebeebot",
+  "version": "1.0.0",
+  "description": "Usefull inviteTracker discord bot, using discord.js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.0.0",
+    "child_process": "^1.0.2",
+    "discord.js": "^12.2.0",
+    "events": "^3.2.0",
+    "fs": "0.0.1-security",
+    "i": "^0.3.6",
+    "i18next-fs-backend": "^1.0.7",
+    "moment": "^2.25.3",
+    "mongoose": "^5.9.18",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "pm2": "^4.4.0",
+    "quickmongo": "^2.0.4",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "i18next": "^19.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atom-bot-Network/BumblebeeBot.git"
+  },
+  "author": "https://github.com/Derpinou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Atom-bot-Network/BumblebeeBot/issues"
+  },
+  "homepage": "https://github.com/Atom-bot-Network/BumblebeeBot#readme"
+}

@@ -1,0 +1,9 @@
+{
+  "DESCRIPTION": "Affiche la latence du bot",
+  "USAGE": "$ping",
+  "EXAMPLE": "$ping",
+  "MESSAGE": "Message",
+  "WS": "Websocket",
+  "SHARD": "Websocket du shard",
+  "DB": "Base de donnée"
+}

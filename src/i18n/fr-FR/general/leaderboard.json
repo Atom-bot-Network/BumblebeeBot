@@ -1,0 +1,5 @@
+{
+  "DESCRIPTION": "Donne le tableau classé des invitations",
+  "USAGE": "$leaderboard",
+  "EXAMPLE": "$leaderboard"
+}
