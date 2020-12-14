@@ -14,6 +14,7 @@ Menu d'aide:
 ![help](https://cdn.discordapp.com/attachments/773188696068456458/773222450761957376/unknown.png)
 # Base
 Pour voir vos invitations, tapez la commande `b!invite`
+
 ![invite](https://cdn.discordapp.com/attachments/773188696068456458/773222979831463947/unknown.png)
 # Configuration des messages
 Commandes:
